@@ -1,0 +1,15 @@
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\bin\Debug\net6.0\Задача_21.exe
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\bin\Debug\net6.0\Задача_21.deps.json
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\bin\Debug\net6.0\Задача_21.runtimeconfig.json
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\bin\Debug\net6.0\Задача_21.dll
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\bin\Debug\net6.0\Задача_21.pdb
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.csproj.AssemblyReference.cache
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.AssemblyInfoInputs.cache
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.AssemblyInfo.cs
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.dll
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\refint\Задача_21.dll
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.pdb
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\Задача_21.genruntimeconfig.cache
+C:\GeekBrains\Домашка 3\Дз 3\Задача_21\obj\Debug\net6.0\ref\Задача_21.dll
